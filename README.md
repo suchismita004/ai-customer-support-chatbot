@@ -76,6 +76,12 @@ python chatbot.py
 python chatbot.py --test
 ```
 
+### Overall Testing Summary : 
+- If you run python ```chatbot.py```  → Run interactive mode
+- If you run python ```chatbot.py --test``` → Run test mode
+
+
+
 ## 📊 Performance Metrics
 - **Response Accuracy**: 85% on FAQ questions
 - **Response Time**: <2 seconds
